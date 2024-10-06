@@ -80,11 +80,18 @@
 
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="[https://linkedin.com/in/kaveendinethma](https://www.linkedin.com/in/dinidu-lochana-0a7b07241/)" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
-</p>
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+<div align='left'>
+
+<ul>
 
 
+  <a href="https://www.linkedin.com/in/dinidu-lochana-0a7b07241" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin: 0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
+  </a>
+
+
+<br>
 
 
