@@ -14,9 +14,10 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dinidu-lochana&column=9" alt="dinidu-lochana" />
+    <img src="https://github-profile-trophy.vercel.app/?username=dinidu-lochana&column=9&theme=dark&bg_color=000000" alt="dinidu-lochana" />
   </a> 
 </p>
+
 
 
 
