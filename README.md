@@ -65,6 +65,8 @@
   </a>
 </p>
 
+
+
 <!-- Front-End Development -->
 <h3 align="center">Front-End Development</h3>
 <p align="center">
@@ -106,6 +108,15 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50"/>
   </a>
+</p>
+
+<!-- Machine Learning Development -->
+<h3 align="center">Machine Learning Development</h3>
+<p align="center">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TensorFlow-Light.svg?short_path=71f339b" alt="css3" width="50" height="50"/>
+  </a>
+
 </p>
 
 <!-- Tools -->
