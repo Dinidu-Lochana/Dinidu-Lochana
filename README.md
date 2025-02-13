@@ -157,8 +157,12 @@
     <img src="https://img.shields.io/badge/linkedin: Dinidu Lochana -%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile of Dinidu Lochana" title="LinkedIn Profile of Dinidu Lochana" style="margin-bottom: 5px;"/>
 </a>
 
-
-
 <br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dinidu-Lochana/Dinidu-Lochana/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dinidu-Lochana/Dinidu-Lochana/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 
